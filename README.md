@@ -2,4 +2,4 @@
 
 clone this repository.
 
-npm start
+node index.js
